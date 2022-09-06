@@ -1,0 +1,7 @@
+path: ver3_cctv_data_add_case
+train: train/images
+val: valid/images
+
+# Classes
+nc: 5
+names: ['assault', 'fainting', 'property_damage', 'stairway_fall', 'turnstile_trespassing']
