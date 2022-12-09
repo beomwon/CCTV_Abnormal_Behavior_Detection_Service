@@ -1,8 +1,7 @@
-<div align="center">
+
 ###광주인공지능사관학교 1차 인공지능 프로젝트
-  
 ####기한: 22.08.08~ 22.08.31
-  
+
 ![화면 캡처 2022-12-09 090840](https://user-images.githubusercontent.com/38881094/206592864-fd846264-10c9-47f3-9a8c-d93af3621cb9.jpg)
 
 ### 프로젝트 프로세스
@@ -30,15 +29,15 @@
 ![image](https://user-images.githubusercontent.com/38881094/206594955-7890a3c5-5e22-4270-b40d-4ef291b6122c.png)
 ![image](https://user-images.githubusercontent.com/38881094/206594980-5f6b719d-cb47-4ce1-aeff-5fde6f1b931d.png)
 
-### 시연 gif
-![1](https://user-images.githubusercontent.com/38881094/206601179-5716677c-7c87-413f-a9fb-fda0fe0d5f68.gif)
-### 시연영상 유튜브
-[![Video Label](http://img.youtube.com/vi/CGDPX-WUmPM/0.jpg)](https://www.youtube.com/watch?v=CGDPX-WUmPM)
-# Yolo v7, flask, html, css, jsscript, python, opencv
-# yolo를 사용할 수 있는 환경
-# 5개의 카테고리를 판별할 수 있는 모델 (폭행, 실신, 계단낙상, 무단진입, 기물파손)
-# v. final
-# 프로젝트 이용 금지
-# beomwon@naver.com
-
+<div align="center">
+  ### 시연 gif
+  ![1](https://user-images.githubusercontent.com/38881094/206601179-5716677c-7c87-413f-a9fb-fda0fe0d5f68.gif)
+  ### 시연영상 유튜브
+  [![Video Label](http://img.youtube.com/vi/CGDPX-WUmPM/0.jpg)](https://www.youtube.com/watch?v=CGDPX-WUmPM)
+  # Yolo v7, flask, html, css, jsscript, python, opencv
+  # yolo를 사용할 수 있는 환경
+  # 5개의 카테고리를 판별할 수 있는 모델 (폭행, 실신, 계단낙상, 무단진입, 기물파손)
+  # v. final
+  # 프로젝트 이용 금지
+  # beomwon@naver.com
 </div>
