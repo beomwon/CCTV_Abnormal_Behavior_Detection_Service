@@ -28,8 +28,8 @@
 ![image](https://user-images.githubusercontent.com/38881094/206594980-5f6b719d-cb47-4ce1-aeff-5fde6f1b931d.png)
 
 ### 시연 gif
-![media1 (1) (2)](https://user-images.githubusercontent.com/38881094/206600513-6820141b-8ef1-4ebc-84b6-9e5b1e928ed0.gif)
-[![Video Label](http://img.youtube.com/vi/CGDPX-WUmPM/0.jpg)]([https://youtu.be/uLR1RNqJ1Mw?t=0s](https://www.youtube.com/watch?v=CGDPX-WUmPM))
+
+[![Video Label](![media1 (1) (2)](https://user-images.githubusercontent.com/38881094/206600513-6820141b-8ef1-4ebc-84b6-9e5b1e928ed0.gif)]([https://youtu.be/uLR1RNqJ1Mw?t=0s](https://www.youtube.com/watch?v=CGDPX-WUmPM))
 # Yolo v7, flask, html, css, jsscript, python, opencv
 # yolo를 사용할 수 있는 환경
 # 5개의 카테고리를 판별할 수 있는 모델 (폭행, 실신, 계단낙상, 무단진입, 기물파손)
